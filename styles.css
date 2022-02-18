@@ -35,16 +35,21 @@ body {
 }
 
 @media (max-width: 1028px) {
+  h1 {
+    font-size: 5rem;
+  }
   .Calculator {
     height: 780px;
     width: 640px;
   }
   .btn {
-    height: 128px;
+    height: 168px;
     width: 161px;
+    font-size: 5rem;
   }
   .screen {
     height: 200px;
     width: 640px;
   }
 }
+
